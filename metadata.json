@@ -1,0 +1,7 @@
+{
+  "name": "Nepali to English Translator",
+  "description": "A modern web application that translates text from Nepali to English using the Gemini API, featuring a clean and responsive user interface with voice transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
